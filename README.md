@@ -2,7 +2,7 @@
 
 React для начинающих
 
-## React useState Hook
+## React LocalStorage
 
 ## Больше уроков
 
